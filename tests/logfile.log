@@ -1,0 +1,50 @@
+2020-05-24 01:21:30,267 : INFO : test_LoginTest : UserName is :standard_user
+2020-05-24 01:21:30,699 : INFO : test_LoginTest : PassWord is :secret_1sauce
+2020-05-24 01:21:31,429 : INFO : test_LoginTest : UserName is :standard_userss
+2020-05-24 01:21:31,429 : INFO : test_LoginTest : UserName is :standard_userss
+2020-05-24 01:21:31,504 : INFO : test_LoginTest : PassWord is :secret_sauce
+2020-05-24 01:21:31,504 : INFO : test_LoginTest : PassWord is :secret_sauce
+2020-05-24 01:21:31,847 : INFO : test_LoginTest : UserName is :standard_user1
+2020-05-24 01:21:31,847 : INFO : test_LoginTest : UserName is :standard_user1
+2020-05-24 01:21:31,847 : INFO : test_LoginTest : UserName is :standard_user1
+2020-05-24 01:21:31,943 : INFO : test_LoginTest : PassWord is :secret_sauce2
+2020-05-24 01:21:31,943 : INFO : test_LoginTest : PassWord is :secret_sauce2
+2020-05-24 01:21:31,943 : INFO : test_LoginTest : PassWord is :secret_sauce2
+2020-05-24 01:21:41,981 : INFO : test_e2e : Lowest Price Product is: 7.99
+2020-05-24 01:21:41,981 : INFO : test_e2e : Highest Price Product is: 49.99
+2020-05-24 01:21:42,084 : INFO : test_e2e : 49.99
+2020-05-24 01:21:42,096 : INFO : test_e2e : 29.99
+2020-05-24 01:21:42,108 : INFO : test_e2e : 15.99
+2020-05-24 01:21:42,120 : INFO : test_e2e : 15.99
+2020-05-24 01:21:42,132 : INFO : test_e2e : 9.99
+2020-05-24 01:21:42,140 : INFO : test_e2e : 7.99
+2020-05-24 01:21:42,172 : INFO : test_e2e : Sauce Labs Fleece Jacket
+2020-05-24 01:21:42,195 : INFO : test_e2e : Sauce Labs Backpack
+2020-05-24 01:21:42,262 : INFO : test_e2e : Test.allTheThings() T-Shirt (Red)
+2020-05-24 01:21:42,284 : INFO : test_e2e : Sauce Labs Bolt T-Shirt
+2020-05-24 01:21:42,306 : INFO : test_e2e : Sauce Labs Bike Light
+2020-05-24 01:21:42,329 : INFO : test_e2e : Sauce Labs Onesie
+2020-05-24 01:21:48,425 : INFO : test_e2e : Sum of products is: 63.96
+2020-05-24 01:21:48,447 : INFO : test_e2e : Item Total is: 63.96
+2020-05-24 01:21:48,468 : INFO : test_e2e : Tax applied is: 5.12
+2020-05-24 01:21:48,468 : INFO : test_e2e : Total amount is: 69.08
+2020-05-24 01:21:50,624 : INFO : test_e2e : THANK YOU FOR YOUR ORDER
+2020-05-24 01:23:02,009 : INFO : test_e2e : Lowest Price Product is: 7.99
+2020-05-24 01:23:02,009 : INFO : test_e2e : Highest Price Product is: 49.99
+2020-05-24 01:23:02,118 : INFO : test_e2e : 49.99
+2020-05-24 01:23:02,133 : INFO : test_e2e : 29.99
+2020-05-24 01:23:02,146 : INFO : test_e2e : 15.99
+2020-05-24 01:23:02,159 : INFO : test_e2e : 15.99
+2020-05-24 01:23:02,173 : INFO : test_e2e : 9.99
+2020-05-24 01:23:02,180 : INFO : test_e2e : 7.99
+2020-05-24 01:23:02,213 : INFO : test_e2e : Sauce Labs Fleece Jacket
+2020-05-24 01:23:02,234 : INFO : test_e2e : Sauce Labs Backpack
+2020-05-24 01:23:07,179 : INFO : test_e2e : Test.allTheThings() T-Shirt (Red)
+2020-05-24 01:23:07,202 : INFO : test_e2e : Sauce Labs Bolt T-Shirt
+2020-05-24 01:23:07,224 : INFO : test_e2e : Sauce Labs Bike Light
+2020-05-24 01:23:07,245 : INFO : test_e2e : Sauce Labs Onesie
+2020-05-24 01:23:10,622 : INFO : test_e2e : Sum of products is: 63.96
+2020-05-24 01:23:10,645 : INFO : test_e2e : Item Total is: 63.96
+2020-05-24 01:23:10,666 : INFO : test_e2e : Tax applied is: 5.12
+2020-05-24 01:23:10,666 : INFO : test_e2e : Total amount is: 69.08
+2020-05-24 01:23:11,149 : INFO : test_e2e : THANK YOU FOR YOUR ORDER
